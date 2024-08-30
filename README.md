@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, React, Design Patterns**
 
-- 👨‍💻 All of my projects are available at [Portfolio](http://www.pranavkhismatrao.me/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://www.pranavkhismatrao.me/)
 
 - 📝 I regularly write articles on [https://medium.com/@pranav.k1998](https://medium.com/@pranav.k1998)
 
